@@ -1,1 +1,1 @@
-# AI-Dashboard-Automation
+# Dashboard-Automation
